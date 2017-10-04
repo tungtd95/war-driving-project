@@ -1,7 +1,8 @@
 # war-driving-project
-* sinh viên thực hiện: Vũ Đức Tùng
+* sinh viên thực hiện: Vũ Đức Tùng, Tạ Thị Hải Yến
 * giảng viên hướng dẫn: TS. Phạm Doãn Tĩnh
 * đề tài: Định vị trong phòng bằng wifi sử dụng các thuật toán khác nhau 
+
 
 - cách thức cài đặt (Toàn bộ trên Ubuntu)
   + cài MySQL server, MySQL Workbench, Android Studio, Eclipse, Ubuntu (giả lập)
