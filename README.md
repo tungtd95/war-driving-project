@@ -1,4 +1,4 @@
-# war-driving-project
+# War Driving Project
 * sinh viên thực hiện: Vũ Đức Tùng, Tạ Thị Hải Yến
 * giảng viên hướng dẫn: TS. Phạm Doãn Tĩnh
 * đề tài: Định vị trong phòng bằng wifi sử dụng các thuật toán khác nhau 
